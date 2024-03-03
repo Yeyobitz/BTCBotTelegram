@@ -44,7 +44,7 @@ The bot supports the following commands:
 
 This project is licensed under the MIT License.
 
-# -------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # BTC To CLP/USD UpdaterBOT
 
